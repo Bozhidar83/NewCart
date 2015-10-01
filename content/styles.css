@@ -1,0 +1,71 @@
+body {
+    background: url(http://www-users.cs.umn.edu/~vaziri/images/bg/bg3.jpg);
+    /*background-color: deepskyblue;*/
+}
+
+div.jumbotron {
+    background: #98d385;
+}
+
+.jumbotron h1 {
+    color: black;
+    text-align: center;
+    /*background-image: url("http://icons.iconarchive.com/icons/fasticon/shop-cart/512/shop-cart-icon.png");*/
+
+}
+
+.jumbotron h1 img {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.jumbotron h2, p {
+    text-align: center;
+}
+
+footer {
+    background-color: #222;
+}
+
+.navbar-static-bottom {
+    background-color: #222;
+    border-color: #080808;
+}
+
+
+.navbar-header a {
+    background-image: url("http://icons.iconarchive.com/icons/fasticon/shop-cart/512/shop-cart-icon.png");
+}
+
+.navbar-brand>img {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+.navbar-header .navbar-brand {
+    display: inline-block;
+    color: purple;
+    background-image: url("http://icons.iconarchive.com/icons/fasticon/shop-cart/512/shop-cart-icon.png");
+}
+
+.collapse .navbar-collapse>ul{
+    margin-left: 270px;
+}
+
+.navbar-nav {
+    margin-left: 270px;
+}
+
+.form-group label {
+    color: white;
+}
+
+.container-fluid p.bg-warning {
+    background-color: red;
+}
+
+.container-fluid p.bg-success {
+    background-color: #98d385;
+}
